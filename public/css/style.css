@@ -1,0 +1,69 @@
+@CHARSET "ISO-8859-1";
+* {
+	margin : 0px;
+	padding : 0px;
+}
+.wrapper {
+	width : 700px;
+	margin : 20px auto;
+	color : #ffffff;
+	display:flex;
+	flex-direction:column;
+}
+.wrapper div {
+	padding : 20px;
+}
+.header {
+	background : purple;
+}
+.content {
+	background : blue;
+}
+.footer {
+	background : red;
+}
+h3 {
+	margin-bottom : 10px;
+}
+a {
+	text-decoration :none;
+	color : #555555;
+	padding : 5px;
+	background : #ffffff;
+	border-radius : 5px;
+}
+table.tb-register-form {
+	margin:10px auto;
+	width : 70%;
+}
+table.tb-register-form tr td {
+	padding : 5px;
+}
+input[type='text'],input[type='password'] {
+	height : 30px;
+	padding:5px;
+	border-radius : 5px;
+}
+a.active {
+	background : green;
+	color : #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
